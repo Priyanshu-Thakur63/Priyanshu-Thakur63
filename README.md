@@ -42,9 +42,10 @@ and experimenting with AI, open source, and client-first design thinking.
 
 ## 📬 Let's Connect
 
-- 🌐 Portfolio (Coming Soon)
-- 📩 [Email](mailto:thatcoldcoffee17100@gmail.com)
-
+- 🌐 Portfolio (Coming Soon)  
+- 📧 [Email](mailto:thatcoldcoffee17100@gmail.com)  
+- 📞 Phone: +91 7014827524
+  
 ---
 
 ## 🌌 Always Building | Always Learning | Always Iterating
