@@ -1,4 +1,11 @@
 <h1 align="center">Hi 👋, I'm Priyanshu</h1>
+
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Priyanshu-Thakur63&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+
 <h3 align="center">Full Stack Developer | Tech Lead @ Hacker's Unity | AI + Web Innovator</h3>
 
 <p align="center">
