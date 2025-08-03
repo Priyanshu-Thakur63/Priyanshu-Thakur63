@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Tech Lead @ Hacker's Unity | Future-Ready Builder</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Priyanshu-Thakur63/Priyanshu-Thakur63/main/desk.jpg" alt="My Dev Desk" width="700"/>
+  <img src="https://raw.githubusercontent.com/Priyanshu-Thakur63/Priyanshu-Thakur63/main/desk1.jpg" alt="My Dev Desk" width="700"/>
 </p>
 
 
