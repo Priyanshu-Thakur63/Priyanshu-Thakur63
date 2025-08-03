@@ -1,29 +1,32 @@
 <h1 align="center">Hi 👋, I'm Priyanshu</h1>
-<h3 align="center">Full Stack Developer | Tech Lead @ Hacker's Unity | Future-Ready Builder</h3>
+<h3 align="center">Full Stack Developer | Tech Lead @ Hacker's Unity | AI + Web Innovator</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Priyanshu-Thakur63/Priyanshu-Thakur63/main/desk1.jpg" alt="My Dev Desk" width="700"/>
 </p>
 
-
-<img align="right" alt="coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/preview/developer-programming-working-on-laptop-4085817-3378404.gif?f=webp" />
-
----
-
-## 🧠 About Me
-
-I'm a developer driven by curiosity, clarity, and impact.  
-Currently deep-diving into:
-
-- **MERN Stack Development**
-- **C++ with Data Structures & Algorithms**
-- **Mathematics for Computer Science**
-
-I focus on building real-world solutions and scalable systems, backed by strong fundamentals and continuous learning.
+<p align="center"><i>"Designing the future, one line of code at a time."</i></p>
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Tech Stack
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=flat-square&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS--Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
+
+---
 
 - **Frontend:** React.js, HTML5, CSS3, TailwindCSS, Bootstrap  
 - **Backend:** Node.js, Express.js, MongoDB  
