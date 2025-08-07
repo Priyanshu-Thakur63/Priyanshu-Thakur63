@@ -77,7 +77,7 @@ I document my journey across **GitHub**, **Hashnode**, and through public projec
 ![Priyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyanshu-Thakur63&theme=react&hide_border=false&count_private=true&cache_seconds=3600)
 
 <!-- GitHub Streaks -->
-![GitHub Streak](https://streak-stats.demolab.com?user=Priyanshu-Thakur63&theme=react&hide_border=false)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Priyanshu-Thakur63&theme=dark&hide_border=false)
 
 <!-- Top Languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Thakur63&theme=react&layout=compact&hide_border=false&cache_seconds=3600)
