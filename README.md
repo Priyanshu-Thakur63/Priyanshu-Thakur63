@@ -7,7 +7,7 @@
 <h3 align="center">Full Stack Developer • AI Explorer • Tech Lead @ Hacker's Unity</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Priyanshu-Thakur63/Priyanshu-Thakur63/main/desk2.jpg" alt="My Dev Desk" width="700"/>
+  <img src="https://raw.githubusercontent.com/Priyanshu-Thakur63/Priyanshu-Thakur63/main/106686355-boy-programmer-wallpaper-38-image.jpg" alt="My Dev Desk" width="700"/>
 </p>
 
 <p align="center"><i>"Designing the future, one line of code at a time."</i></p>
