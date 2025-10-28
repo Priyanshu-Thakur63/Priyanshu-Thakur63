@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Priyanshu</h1>
 
-<h3 align="center">Full Stack Developer • AI Explorer • Tech Lead @ Hacker's Unity</h3>
+<h3 align="center">Full Stack Developer • AI Explorer • Competitive Programming</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Priyanshu-Thakur63/Priyanshu-Thakur63/main/106686355-boy-programmer-wallpaper-38-image.jpg" alt="My Dev Desk" width="700"/>
