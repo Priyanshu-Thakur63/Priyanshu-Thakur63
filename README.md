@@ -113,13 +113,13 @@ I document my journey through **GitHub**, **Hashnode**, and real-world projects 
 ## 📊 GitHub Stats
 
 <!-- GitHub Stats -->
-![Priyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyanshu-Thakur63&theme=react&hide_border=false&count_private=true&cache_seconds=3600)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyanshu-Thakur63&show_icons=true&theme=react&hide_border=false)
 
 <!-- GitHub Streaks -->
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Priyanshu-Thakur63&theme=dark&hide_border=false)
 
 <!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Thakur63&theme=react&layout=compact&hide_border=false&cache_seconds=3600)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Thakur63&layout=compact&theme=react&hide_border=false)
 
 ---
 
